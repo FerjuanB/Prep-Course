@@ -1,0 +1,5 @@
+las variables nos ayudan a guardar un valor a algo, para utilizarlo después. 
+las strings son letras que siempre van delimitadas por comillas
+el argumento de las funciones es lo que queremos que realice la funcion cuando la invocamos, el "return" es para que devuelva lo que delimitamos, ya sea una string, una variable o una operacion, etc.
+la declaracion if es un argumento que si es verdadero, le pedimos que realice tal cosa, y si es falso, le pedimos que realice otra cosa. 
+los valores booleanos solamente pueden tomar dos opciones o true, o false. basados en la logica de boole que a su vez está basado en el lenguaje binario. 
