@@ -1,0 +1,5 @@
+for es uno de los dos bucles que se pueden ejecutar en javascript y sirve para realizar operaciones repetitivas para evaluar expresiones y devolver lo que estamos buscando. es similar a la instruccion "if" pero mas compleja.
+
+las expresiones "&&"; "||" y "!" son operadores lógicos, y cada cual tiene su significado, sirven para comparar dos expresiones entre sí, la expresion "&&" significa "Y", se evalúan ambas expresiones y el resultado será true si ambas son verdaderas.
+el segundo operador, el "||", significa "O", y lo que realiza es evaluar ambas expresiones y si alguna de ellas es verdadera, el resultado será true, será false el resultado si ambas son falsas.
+y el ultimo operador logico, el ! significa "not" y lo que hace es invertir el resultado que tiene una expresion, si 1 = true; entonces !1 = false. 
