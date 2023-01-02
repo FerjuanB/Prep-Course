@@ -1,0 +1,5 @@
+los objetos son contenedores parecidos a los array, guardando mucha informacion sobre una sola cosa, y para instanciarlos se utilizan las {};
+las propiedades hacen referencia a las que se van agregando a los objetos y se hacen en pares de key:value, cada propiedad tiene un nombre y ese nombre se le asigna un valor; y puede haber muchos, solo que se separan con ","
+los metodos se les llama a las funciones dentro de los objetos, y se escriben asignandola a una clave. para llamarla, se utiliza el nombre del objeto, junto con el key y (). 
+el bucle for in, se utiliza para iterar sobre cada par de claves-valor de los objetos, y se llama ligeramente diferente a como se utiliza en los array, se declara una variable, la palabra in, y el nombre del objeto para recorrer todas los pares de key-value. 
+la notacion de puntos es una forma de acceder a los valores de un objeto, utilizando el nombre del objeto, el punto , y el key, para hacerlo de una manera mas rapida, y la notacion de corchetes generalmente se utiliza para llamar variables dentro de un objeto, pero se deben utilizar comillas para poder llamarlo. 
